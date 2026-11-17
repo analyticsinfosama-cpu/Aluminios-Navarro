@@ -1,0 +1,2477 @@
+{
+ "fecha": "2026-11-17",
+ "dominio": "aluminiosnavarro.es",
+ "paginas": {
+  "https://aluminiosnavarro.es/blog/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Blog】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Conoce nuestros Productos, Servicios y Trabajos realizados, ademas de consejos domésticos, noticias de interés y mucho mas. ✅",
+   "canonical": "https://aluminiosnavarro.es/blog/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Latest posts"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "【 Blog】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/como-saber-si-tus-ventanas-aislan/": {
+   "status": 200,
+   "location": null,
+   "title": "Cómo saber si tus ventanas aíslan: 7 pruebas caseras",
+   "meta_desc": "Comprueba el aislamiento térmico de tus ventanas con 7 pruebas caseras: corrientes, condensación, doble cristal y rotura de puente térmico.",
+   "canonical": "https://aluminiosnavarro.es/como-saber-si-tus-ventanas-aislan/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Tus ventanas aíslan de verdad? 7 pruebas caseras para comprobarlo este invierno"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "Cómo saber si tus ventanas aíslan: 7 pruebas caseras",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/11/comprobar-aislamiento-ventanas.png"
+  },
+  "https://aluminiosnavarro.es/protege-tu-patio-con-techos-fijos-de-panel-sandwich-de-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "Techos Fijos de Panel Sándwich de Aluminio | Madrid",
+   "meta_desc": "Protege tu patio de hojas, lluvia y suciedad con nuestros techos fijos de panel sándwich en Madrid. Soluciones de aluminio a medida y aislamiento.",
+   "canonical": "https://aluminiosnavarro.es/protege-tu-patio-con-techos-fijos-de-panel-sandwich-de-aluminio/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "La caída de las hojas no es un problema: Protege tu patio con techos fijos de panel sándwich de aluminio"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Techos Fijos de Panel Sándwich de Aluminio | Madrid",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/10/techo-fijo-panel-sandwich-aluminio-patio-otono.png"
+  },
+  "https://aluminiosnavarro.es/aprovechar-luz-natural-terraza-otono/": {
+   "status": 200,
+   "location": null,
+   "title": "Cómo aprovechar la luz natural en tu terraza en otoño",
+   "meta_desc": "Descubre cómo aprovechar la luz natural de tu terraza en otoño y qué debes tener en cuenta al elegir un cerramiento de cristal para tu hogar.",
+   "canonical": "https://aluminiosnavarro.es/aprovechar-luz-natural-terraza-otono/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Exprime el sol tras el cambio de hora de octubre instalando cortinas de cristal correderas abatibles sin perfiles"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cómo aprovechar la luz natural en tu terraza en otoño",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/10/cortinas-cristal-sin-perfiles-terraza-luz-natural.png"
+  },
+  "https://aluminiosnavarro.es/tipos-de-cerramientos-de-aluminio-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Tipos de Cerramientos de Aluminios | Aluminios Navarro",
+   "meta_desc": "Descubre los tipos de cerramientos de aluminios ideales para tu terraza en Madrid. ¡Aumenta el espacio y el confort de tu hogar! Leer más.",
+   "canonical": "https://aluminiosnavarro.es/tipos-de-cerramientos-de-aluminio-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Tipos de Cerramientos de Aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service"
+   ],
+   "og_title": "Tipos de Cerramientos de Aluminios | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/03/Cerramientos-de-Aluminio-y-PVC-en-Madrid-1.jpeg"
+  },
+  "https://aluminiosnavarro.es/veranda-o-pergola-bioclimatica-conoce-las-diferencias-clave-para-elegir-el-mejor-cerramiento/": {
+   "status": 200,
+   "location": null,
+   "title": "Veranda o Pérgola Bioclimática | Aluminios Navarro",
+   "meta_desc": "¿Veranda o pérgola bioclimática? Descubre las diferencias . Compara ventajas, usos y materiales para elegir el mejor cerramiento exterior.",
+   "canonical": "https://aluminiosnavarro.es/veranda-o-pergola-bioclimatica-conoce-las-diferencias-clave-para-elegir-el-mejor-cerramiento/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Veranda o Pérgola Bioclimática: Conoce las diferencias clave para elegir el mejor cerramiento"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Veranda o Pérgola Bioclimática | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/10/comparativa-veranda-pergola-bioclimatica.jpeg"
+  },
+  "https://aluminiosnavarro.es/como-ganar-metros-utiles-casa-verano/": {
+   "status": 200,
+   "location": null,
+   "title": "Cómo ganar metros útiles este verano | Aluminos Navarro",
+   "meta_desc": "¿Tu casa se ha quedado pequeña? Descubre cómo ganar metros útiles sin obras mayores mediante cerramientos modernos. Aísla del calor y revaloriza tu hogar.",
+   "canonical": "https://aluminiosnavarro.es/como-ganar-metros-utiles-casa-verano/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de terrazas: Cómo ganar metros útiles en casa este verano"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cómo ganar metros útiles este verano | Aluminos Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/07/ganar-metros-utiles.jpeg"
+  },
+  "https://aluminiosnavarro.es/despacho-de-lujo-claves-para-ganar-metros-utiles/": {
+   "status": 200,
+   "location": null,
+   "title": "Claves para diseñar un despacho de lujo productivo en casa",
+   "meta_desc": "Transforma tu habitación en un despacho de lujo. Guía sobre iluminación natural y aislamiento para trabajar con el máximo confort y silencio",
+   "canonical": "https://aluminiosnavarro.es/despacho-de-lujo-claves-para-ganar-metros-utiles/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Despacho de lujo: Claves para ganar metros útiles aprovechando la luz natural"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Claves para diseñar un despacho de lujo productivo en casa",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/05/despacho-de-lujo.jpeg"
+  },
+  "https://aluminiosnavarro.es/cambiar-tus-ventanas-en-septiembre/": {
+   "status": 200,
+   "location": null,
+   "title": "Cambiar tus ventanas en septiembre: prepárate para el frío",
+   "meta_desc": "Descubre por qué cambiar tus ventanas en septiembre es la mejor decisión estratégica para aislar tu casa del frío, ahorrar energía y evitar esperas.",
+   "canonical": "https://aluminiosnavarro.es/cambiar-tus-ventanas-en-septiembre/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Preparando la casa para el frío? Por qué cambiar tus ventanas en septiembre es tu mejor decisión"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cambiar tus ventanas en septiembre: prepárate para el frío",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/09/cambiar-tus-ventanas-en-septiembre.png"
+  },
+  "https://aluminiosnavarro.es/toldos-cofre-motorizados-con-sensor-de-viento/": {
+   "status": 200,
+   "location": null,
+   "title": "Protege tu Terraza: Cofre Motorizados con Sensor de Viento",
+   "meta_desc": "Descubre cómo los toldos cofre motorizados con sensor de viento protegen tu terraza de las tormentas de verano de forma automática. ¡AQUI!",
+   "canonical": "https://aluminiosnavarro.es/toldos-cofre-motorizados-con-sensor-de-viento/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cómo los toldos cofre motorizados con sensor de viento salvan tu terraza de las tormentas impredecibles de agosto"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Protege tu Terraza: Cofre Motorizados con Sensor de Viento",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/08/cofre-motorizados-con-sensor-de-viento.png"
+  },
+  "https://aluminiosnavarro.es/lagrimas-de-san-lorenzo-aislamiento-con-policarbonato-celular-translucido/": {
+   "status": 200,
+   "location": null,
+   "title": "Techos y Aislamiento con Policarbonato Celular Translúcido",
+   "meta_desc": "Descubre cómo el aislamiento con policarbonato celular translúcido en techos móviles transforma tu terraza. Confort térmico todo el año",
+   "canonical": "https://aluminiosnavarro.es/lagrimas-de-san-lorenzo-aislamiento-con-policarbonato-celular-translucido/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Lágrimas de San Lorenzo desde casa: Magia y aislamiento con policarbonato celular translúcido en techos móviles"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Techos y Aislamiento con Policarbonato Celular Translúcido",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/08/aislamiento-con-policarbonato-celular-translucido.png"
+  },
+  "https://aluminiosnavarro.es/cerrar-tu-porche/": {
+   "status": 200,
+   "location": null,
+   "title": "Cerrar tu Porche | Aluminos Navarro",
+   "meta_desc": "Cerrar tu porche transforma tu hogar. Gana metros útiles, aislamiento y confort sin obras molestas. ¡Descubre la solución ideal!",
+   "canonical": "https://aluminiosnavarro.es/cerrar-tu-porche/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Di adiós al viento y la lluvia: por qué cerrar tu porche es la mejor inversión en confort y bienestar"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cerrar tu Porche | Aluminos Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/01/cerrar-tu-porche.jpeg"
+  },
+  "https://aluminiosnavarro.es/efecto-venturi-terrazas-soluciones/": {
+   "status": 200,
+   "location": null,
+   "title": "Efecto Venturi: Por qué tu terraza parece un túnel de viento",
+   "meta_desc": "¿Viento excesivo en tu balcón? Descubre qué es el Efecto Venturi, cómo afecta a la seguridad de tu hogar y las soluciones técnicas para frenarlo.",
+   "canonical": "https://aluminiosnavarro.es/efecto-venturi-terrazas-soluciones/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Efecto Venturi en balcones: Por qué algunas terrazas parecen un túnel de viento y cómo frenarlo"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Efecto Venturi: Por qué tu terraza parece un túnel de viento",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/05/Efecto-Venturi.jpeg"
+  },
+  "https://aluminiosnavarro.es/tipos-de-cerramientos-para-terrazas/": {
+   "status": 200,
+   "location": null,
+   "title": "Tipos de Cerramientos para Terrazas | Aluminios Navarro",
+   "meta_desc": "Descubre los mejores tipos de cerramientos para terrazas. ¡Contacta a Aluminios Navarro y transforma tu espacio hoy mismo!",
+   "canonical": "https://aluminiosnavarro.es/tipos-de-cerramientos-para-terrazas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Tipos de cerramientos para terrazas: descubre las mejores opciones para disfrutar de tu espacio exterior"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Tipos de Cerramientos para Terrazas | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2024/06/tipos-de-cerramientos-de-terrazas.jpg"
+  },
+  "https://aluminiosnavarro.es/descanso-soluciones-oscurecimiento-total/": {
+   "status": 200,
+   "location": null,
+   "title": "Descanso profundo: Soluciones de oscurecimiento total",
+   "meta_desc": "Mejora tu ciclo de sueño logrando un oscurecimiento total en tu dormitorio. Bloquea la luz urbana, aísla el ruido y descubre la domótica en persianas.",
+   "canonical": "https://aluminiosnavarro.es/descanso-soluciones-oscurecimiento-total/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Descanso sin interrupciones: Soluciones de oscurecimiento total para aislarte del exterior"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Descanso profundo: Soluciones de oscurecimiento total",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/04/oscurecimiento-total.jpeg"
+  },
+  "https://aluminiosnavarro.es/tormentas-de-primavera-guia-aprovechar-balcon/": {
+   "status": 200,
+   "location": null,
+   "title": "Tormentas de primavera: La guía para aprovechar tu balcón",
+   "meta_desc": "No dejes que las tormentas de primavera arruinen tus planes ni ensucien tu balcón. Descubre los cerramientos de cristal para disfrutar tu terraza todo el año.",
+   "canonical": "https://aluminiosnavarro.es/tormentas-de-primavera-guia-aprovechar-balcon/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Tormentas de primavera: La guía para no perder el uso de tu balcón en días inestables"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Tormentas de primavera: La guía para aprovechar tu balcón",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/04/terraza-abierta.jpeg"
+  },
+  "https://aluminiosnavarro.es/el-secreto-para-disfrutar-del-exterior/": {
+   "status": 200,
+   "location": null,
+   "title": "Cómo disfrutar del exterior en verano sin pasar calor",
+   "meta_desc": "¿El sol te impide usar tu patio? Aprende las claves técnicas para disfrutar del exterior y bajar la temperatura de tu hogar de forma natural.",
+   "canonical": "https://aluminiosnavarro.es/el-secreto-para-disfrutar-del-exterior/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Jardín a 40 grados: El secreto para disfrutar del exterior sin convertir tu casa en un horno"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cómo disfrutar del exterior en verano sin pasar calor",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/05/disfrutar-del-exterior.jpeg"
+  },
+  "https://aluminiosnavarro.es/casas-que-se-cuidan-solas/": {
+   "status": 200,
+   "location": null,
+   "title": "Casas que se cuidan solas: Domótica para proteger tu fachada",
+   "meta_desc": "Descubre el concepto de casas que se cuidan solas. Cómo los sensores climáticos protegen tus instalaciones exteriores mientras estás fuera.",
+   "canonical": "https://aluminiosnavarro.es/casas-que-se-cuidan-solas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Casas que se cuidan solas: Sensores de lluvia y viento que protegen tu fachada mientras estás fuera"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Casas que se cuidan solas: Domótica para proteger tu fachada",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/05/casas-que-se-cuidan-solas.jpeg"
+  },
+  "https://aluminiosnavarro.es/enfriar-casa-cambiando-ventanas-viejas/": {
+   "status": 200,
+   "location": null,
+   "title": "Cómo enfriar tu casa cambiando tus ventanas viejas",
+   "meta_desc": "¿Quieres enfriar tu casa este verano? Descubre por qué cambiar tus ventanas viejas por perfiles eficientes es la clave para aislar y ahorrar energía.",
+   "canonical": "https://aluminiosnavarro.es/enfriar-casa-cambiando-ventanas-viejas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ola de calor a raya: Cómo enfriar tu casa cambiando tus ventanas viejas"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cómo enfriar tu casa cambiando tus ventanas viejas",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/07/ventanas-viejas.jpeg"
+  },
+  "https://aluminiosnavarro.es/errores-eficiencia-energetica-piso/": {
+   "status": 200,
+   "location": null,
+   "title": "5 errores comunes al mejorar la eficiencia energética",
+   "meta_desc": "¿Quieres mejorar la eficiencia energética de tu hogar? Evita estos 5 errores comunes al reformar un piso en España y ahorra en tus facturas de luz",
+   "canonical": "https://aluminiosnavarro.es/errores-eficiencia-energetica-piso/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "5 errores comunes al intentar mejorar la eficiencia energética de un piso"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "5 errores comunes al mejorar la eficiencia energética",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/06/eficiencia-energetica.jpeg"
+  },
+  "https://aluminiosnavarro.es/como-limpiar-un-toldo/": {
+   "status": 200,
+   "location": null,
+   "title": "Cómo Limpiar un Toldo: Mantenerlo Impecable",
+   "meta_desc": "Descubre como limpiar un toldo de manera rápida y fácil pero sobre todo efectiva, en Aluminios Navarro te lo contamos todo ¡Entra aquí!",
+   "canonical": "https://aluminiosnavarro.es/como-limpiar-un-toldo/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cómo Limpiar un Toldo: Consejos Prácticos para Mantenerlo Impecable"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Cómo Limpiar un Toldo: Mantenerlo Impecable",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/09/limpiar-un-toldo.jpg"
+  },
+  "https://aluminiosnavarro.es/perfiles-metalicos-mantenimiento-cero-reformas/": {
+   "status": 200,
+   "location": null,
+   "title": "los perfiles metálicos dominan las reformas",
+   "meta_desc": "Descubre por qué los perfiles metálicos son la opción favorita en las reformas modernas. Gana durabilidad, diseño y aislamiento sin mantenimiento",
+   "canonical": "https://aluminiosnavarro.es/perfiles-metalicos-mantenimiento-cero-reformas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Mantenimiento cero: Por qué los perfiles metálicos dominan las reformas modernas"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "los perfiles metálicos dominan las reformas",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/06/perfiles-metalicos.jpeg"
+  },
+  "https://aluminiosnavarro.es/aislar-tu-vivienda-del-frio-ruido-sin-obras/": {
+   "status": 200,
+   "location": null,
+   "title": "Claves para aislar tu vivienda del frío y ruido sin obras",
+   "meta_desc": "Descubre los mejores métodos técnicos para aislar tu vivienda del frío y del ruido sin hacer grandes reformas. Gana confort térmico y ahorra energía.",
+   "canonical": "https://aluminiosnavarro.es/aislar-tu-vivienda-del-frio-ruido-sin-obras/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Claves para aislar tu vivienda del frío y del ruido sin grandes obras"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Claves para aislar tu vivienda del frío y ruido sin obras",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/06/aislar-tu-vivienda-del-frio.jpeg"
+  },
+  "https://aluminiosnavarro.es/automatiza-el-control-solar-vivienda/": {
+   "status": 200,
+   "location": null,
+   "title": "Domótica en casa: Automatiza el control solar de tu vivienda",
+   "meta_desc": "Descubre cómo la domótica mejora tu confort térmico. Automatiza el control solar de tu hogar con toldos inteligentes y optimiza el ahorro de energía",
+   "canonical": "https://aluminiosnavarro.es/automatiza-el-control-solar-vivienda/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Domótica y confort: Automatiza el control solar de tu vivienda"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Domótica en casa: Automatiza el control solar de tu vivienda",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/06/Automatiza-el-control-solar.jpeg"
+  },
+  "https://aluminiosnavarro.es/alergias-primavera-sellado-hermetico-ventanas/": {
+   "status": 200,
+   "location": null,
+   "title": "Alergias a raya: El sellado hermético que necesitas",
+   "meta_desc": "Descubre por qué un sellado hermético en tus ventanas bloquea polen, polvo y ruido. Mejora tu salud respiratoria esta primavera aislando tu hogar al máximo.",
+   "canonical": "https://aluminiosnavarro.es/alergias-primavera-sellado-hermetico-ventanas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Alergias a raya: El sellado hermético que tu salud respiratoria necesita esta primavera"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Alergias a raya: El sellado hermético que necesitas",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/04/sellado-hermetico.jpeg"
+  },
+  "https://aluminiosnavarro.es/blindar-piso-altas-temperaturas/": {
+   "status": 200,
+   "location": null,
+   "title": "Operación calor: Blindar tu piso ante las altas temperaturas",
+   "meta_desc": "Descubre cómo proteger tu hogar de las altas temperaturas este verano. Blinda tu piso térmicamente, ahorra en aire acondicionado y mejora tu confort hoy.",
+   "canonical": "https://aluminiosnavarro.es/blindar-piso-altas-temperaturas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Operación calor: Cómo blindar tu piso térmicamente antes de que lleguen las altas temperaturas"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Operación calor: Blindar tu piso ante las altas temperaturas",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/04/rotura-de-puente-termico.jpeg"
+  },
+  "https://aluminiosnavarro.es/carpinteria-bicolor/": {
+   "status": 200,
+   "location": null,
+   "title": "Carpintería bicolor | Carpinteria de aluminio Madrid",
+   "meta_desc": "Descubre cómo la carpintería bicolor te permite cambiar el color interior de tus ventanas respetando la fachada y la normativa.",
+   "canonical": "https://aluminiosnavarro.es/carpinteria-bicolor/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Carpintería bicolor: El secreto para cumplir con tu comunidad de vecinos sin renunciar a tu estilo"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Carpintería bicolor | Carpinteria de aluminio Madrid",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/03/carpinteria-bicolor.jpeg"
+  },
+  "https://aluminiosnavarro.es/el-fenomeno-de-la-lluvia-de-barro-como-proteger-tus-toldos-de-la-calima-sahariana/": {
+   "status": 200,
+   "location": null,
+   "title": "Protege tus toldos de la calima sahariana",
+   "meta_desc": "Conoce qué es la lluvia de barro y aprende a limpiar y proteger tus toldos de la calima sahariana paso a paso para evitar daños.",
+   "canonical": "https://aluminiosnavarro.es/el-fenomeno-de-la-lluvia-de-barro-como-proteger-tus-toldos-de-la-calima-sahariana/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "El fenómeno de la «Lluvia de Barro»: Cómo proteger tus toldos de la calima sahariana"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Protege tus toldos de la calima sahariana",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/03/calima-sahariana.jpeg"
+  },
+  "https://aluminiosnavarro.es/huerto-urbano-en-el-salon-cerramientos-de-terraza-para-el-micro-gardening-invernal/": {
+   "status": 200,
+   "location": null,
+   "title": "Huerto urbano de invierno en tu terraza | Aluminios Navarro",
+   "meta_desc": "Descubre qué plantar y cómo adaptar tu terraza cerrada para mantener un huerto urbano sano y productivo durante todo el invierno.",
+   "canonical": "https://aluminiosnavarro.es/huerto-urbano-en-el-salon-cerramientos-de-terraza-para-el-micro-gardening-invernal/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Huerto urbano en el salón: Cerramientos de terraza para el «Micro-gardening» invernal"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Huerto urbano de invierno en tu terraza | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/03/Huerto-urbano.jpeg"
+  },
+  "https://aluminiosnavarro.es/vidrios-laminados-de-seguridad-resistencia-golpe-terraza/": {
+   "status": 200,
+   "location": null,
+   "title": "Vidrios Laminados de Seguridad | Aluminios Navarro",
+   "meta_desc": "Descubre la reacción de los vidrios laminados de seguridad ante impactos. Protección anticaída y antiintrusión para terrazas y negocios con tecnología PVB.",
+   "canonical": "https://aluminiosnavarro.es/vidrios-laminados-de-seguridad-resistencia-golpe-terraza/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Vidrios laminados de seguridad: Qué pasa realmente cuando un cristal de terraza recibe un golpe fuerte"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Vidrios Laminados de Seguridad | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/02/Vidrios-laminados-de-seguridad.jpeg"
+  },
+  "https://aluminiosnavarro.es/valor-cerramiento-terraza-venta-de-vivienda-inversion/": {
+   "status": 200,
+   "location": null,
+   "title": "Venta de Vivienda | Aluminios Navarro",
+   "meta_desc": "Maximiza el valor en la venta de vivienda integrando cerramientos y pérgolas. Gana metros útiles y revaloriza tu propiedad hasta un 15%",
+   "canonical": "https://aluminiosnavarro.es/valor-cerramiento-terraza-venta-de-vivienda-inversion/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Cuánto valor añade realmente un cerramiento de terraza al precio de venta de tu vivienda?"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Venta de Vivienda | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/02/venta-de-vivienda.jpeg"
+  },
+  "https://aluminiosnavarro.es/cambiar-ventanas-edificio-protegido-madrid-patrimoni/": {
+   "status": 200,
+   "location": null,
+   "title": "Edificio Protegido en Madrid | Aluminios Navarro",
+   "meta_desc": "¿Vives en un edificio protegido en Madrid? Descubre cómo renovar tus ventanas cumpliendo la normativa de Patrimonio con acabados RAL y foliados madera",
+   "canonical": "https://aluminiosnavarro.es/cambiar-ventanas-edificio-protegido-madrid-patrimoni/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Patrimonio y Fachadas: Qué hacer si vives en un edificio protegido de Madrid y quieres cambiar tus ventanas"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Edificio Protegido en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/02/edificio-protegido.jpeg"
+  },
+  "https://aluminiosnavarro.es/efecto-in-and-out-bienestar-emocional-cerramientos/": {
+   "status": 200,
+   "location": null,
+   "title": "Efecto In & Out | Aluminios Navarro",
+   "meta_desc": "Descubre cómo el efecto In & Out mejora el bienestar emocional mediante cortinas de cristal y techos móviles. Descubre Ahora!",
+   "canonical": "https://aluminiosnavarro.es/efecto-in-and-out-bienestar-emocional-cerramientos/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "El efecto ‘In & Out’: Cómo un cerramiento de cristal influye en el bienestar emocional"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Efecto In & Out | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/02/efecto-In-Out.jpeg"
+  },
+  "https://aluminiosnavarro.es/toldos-y-pergolas-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Toldos y Pérgolas en Madrid | Aluminios Navarro",
+   "meta_desc": "Conoce los mejores Toldos y Pérgolas en Madrid y puedas realizar la mejor elección para la protección y decoración de tus espacios",
+   "canonical": "https://aluminiosnavarro.es/toldos-y-pergolas-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos y Pérgolas en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service"
+   ],
+   "og_title": "Toldos y Pérgolas en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/04/Toldo-Europa-en-Madrid.jpg"
+  },
+  "https://aluminiosnavarro.es/elegir-el-mejor-cerramiento-para-tu-terraza/": {
+   "status": 200,
+   "location": null,
+   "title": "Elegir cerramientos para terrazas | Aluminios Navarro",
+   "meta_desc": "En Aluminios Navarro somos especialistas en la instalación de cerramientos para terrazas, elije correctamente y disfruta de sus ventajas .",
+   "canonical": "https://aluminiosnavarro.es/elegir-el-mejor-cerramiento-para-tu-terraza/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Elegir el mejor cerramiento para tu terraza"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Elegir cerramientos para terrazas | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/01/terrazanavarro-1024x684-min.jpg"
+  },
+  "https://aluminiosnavarro.es/pergolas-para-jardin/": {
+   "status": 200,
+   "location": null,
+   "title": "Pérgolas para jardín | Aluminios Navarro",
+   "meta_desc": "Las pérgolas para jardín son la opción perfecta para cuidar las áreas externas de tu hogar y dar un toque elegante y sofisticado",
+   "canonical": "https://aluminiosnavarro.es/pergolas-para-jardin/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Qué son las pérgolas para jardín y por qué deberías tener una en tu casa?"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Pérgolas para jardín | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/04/pergolasparajardin.png"
+  },
+  "https://aluminiosnavarro.es/vives-en-una-planta-baja-descubre-por-que-las-persianas-autoblocantes-son-tu-mejor-aliado-en-seguridad/": {
+   "status": 200,
+   "location": null,
+   "title": "Persianas Autoblocantes | Aluminios Navarro",
+   "meta_desc": "¿Vives en un bajo? Las persianas autoblocantes son la seguridad ideal. Sin rejas ni agobios. ¡Entra y conoce todas sus ventajas!",
+   "canonical": "https://aluminiosnavarro.es/vives-en-una-planta-baja-descubre-por-que-las-persianas-autoblocantes-son-tu-mejor-aliado-en-seguridad/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Vives en una planta baja? Descubre por qué las persianas autoblocantes son tu mejor aliado en seguridad"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Persianas Autoblocantes | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2026/01/persianas-autoblocantes.jpeg"
+  },
+  "https://aluminiosnavarro.es/techos-moviles-y-legalidad-como-ganar-metros-en-tu-terraza-en-madrid-sin-necesidad-de-obra-mayor/": {
+   "status": 200,
+   "location": null,
+   "title": "Techos Móviles y legalidad en Madrid | Aluminios Navarro",
+   "meta_desc": "Aprende sobre Techos Móviles y legalidad en Madrid. Amplía tu terraza sin obras mayores con nuestra guía. ¡Entra y resuelve tus dudas!",
+   "canonical": "https://aluminiosnavarro.es/techos-moviles-y-legalidad-como-ganar-metros-en-tu-terraza-en-madrid-sin-necesidad-de-obra-mayor/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Techos móviles y legalidad: Cómo ganar metros en tu terraza en Madrid sin necesidad de obra mayor"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Techos Móviles y legalidad en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/12/Techos-Moviles-y-legalidad.jpg"
+  },
+  "https://aluminiosnavarro.es/tus-ventanas-sudan-en-invierno-como-la-rotura-de-puente-termico-rpt-elimina-la-condensacion/": {
+   "status": 200,
+   "location": null,
+   "title": "Rotura de Puente Térmico | Aluminios Navarro",
+   "meta_desc": "¿Condensación? Descubre cómo la Rotura de Puente Térmico elimina la humedad en tus ventanas definitivamente. ¡Lee el artículo completo!",
+   "canonical": "https://aluminiosnavarro.es/tus-ventanas-sudan-en-invierno-como-la-rotura-de-puente-termico-rpt-elimina-la-condensacion/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Tus ventanas sudan en invierno? Cómo la rotura de puente térmico (RPT) elimina la condensación"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Rotura de Puente Térmico | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/12/rotura-de-puente-termico.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-de-pvc-kommerling-eficiencia-alemana-para-tu-hogar-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Ventanas de PVC Kommerling | Aluminios Navarro",
+   "meta_desc": "Ventanas de PVC Kommerling en Madrid: eficiencia y confort para tu hogar. ¡Descubre nuestro servicio de instalación certificado!",
+   "canonical": "https://aluminiosnavarro.es/ventanas-de-pvc-kommerling-eficiencia-alemana-para-tu-hogar-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas de PVC Kommerling: eficiencia alemana para tu hogar en Madrid"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Ventanas de PVC Kommerling | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/12/Ventanas-de-PVC-Kommerling.jpg"
+  },
+  "https://aluminiosnavarro.es/ventajas-de-las-mamparas-de-bano-estilo-higiene-y-durabilidad-en-un-solo-diseno/": {
+   "status": 200,
+   "location": null,
+   "title": "Mamparas de baño | Aluminios Navarro",
+   "meta_desc": "Descubre las ventajas de las Mamparas de Baño: estilo, higiene y durabilidad para tu hogar. ¡Entra y lee nuestra guía experta!",
+   "canonical": "https://aluminiosnavarro.es/ventajas-de-las-mamparas-de-bano-estilo-higiene-y-durabilidad-en-un-solo-diseno/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventajas de las mamparas de baño: estilo, higiene y durabilidad en un solo diseño"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Mamparas de baño | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/12/mamparas-de-bano.jpg"
+  },
+  "https://aluminiosnavarro.es/tipos-de-toldos-horizontales/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Tipos de toldos horizontales 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Descubre los tipos de toldos horizontales y elige el ideal. Guía de pérgolas, extensibles y verandas. ¡Elige la mejor sombra aquí!✅",
+   "canonical": "https://aluminiosnavarro.es/tipos-de-toldos-horizontales/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Tipos de toldos horizontales: elige el ideal para tu terraza o jardín"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Tipos de toldos horizontales 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/11/tipos-de-toldos-horizontales.jpeg"
+  },
+  "https://aluminiosnavarro.es/que-son-los-cerramientos-de-pvc-y-por-que-estan-revolucionando-los-hogares-modernos/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Hogares Modernos 】▷ Descubre como el PVC puede ayudarte.",
+   "meta_desc": "lll➤ Descubra cómo los cerramientos de PVC transforman los hogares modernos con eficiencia, estilo y confort. ¡Solicite su presupuesto hoy! ✅",
+   "canonical": "https://aluminiosnavarro.es/que-son-los-cerramientos-de-pvc-y-por-que-estan-revolucionando-los-hogares-modernos/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Qué son los Cerramientos de PVC y por qué están revolucionando los hogares modernos?"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Hogares Modernos 】▷ Descubre como el PVC puede ayudarte.",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/11/que-son-los-cerramientos-en-pvc.jpeg"
+  },
+  "https://aluminiosnavarro.es/aluminio-en-arquitectura-como-combinar-aluminio-con-otros-materiales-en-diseno-arquitectonico/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Aluminio en arquitectura 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Descubra cómo el aluminio en arquitectura puede transformar sus espacios combinando vidrio, madera y piedra con estilo y eficiencia. ✅",
+   "canonical": "https://aluminiosnavarro.es/aluminio-en-arquitectura-como-combinar-aluminio-con-otros-materiales-en-diseno-arquitectonico/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Aluminio en arquitectura: Cómo combinar aluminio con otros materiales en diseño arquitectónico."
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Aluminio en arquitectura 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/11/aluminio-en-arquitectura.jpg"
+  },
+  "https://aluminiosnavarro.es/errores-mas-frecuentes-en-la-instalacion-de-cerramientos-y-como-evitarlos/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Instalación de cerramientos 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Descubre los errores más comunes en la instalación de cerramientos y cómo evitarlos. Consejos expertos para cerramientos de aluminio y PVC. ✅",
+   "canonical": "https://aluminiosnavarro.es/errores-mas-frecuentes-en-la-instalacion-de-cerramientos-y-como-evitarlos/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Errores más frecuentes en la instalación de cerramientos y cómo evitarlos"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Instalación de cerramientos 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/10/errores-en-la-instalacion-de-cerramientos-y-como-evitarlos.jpeg"
+  },
+  "https://aluminiosnavarro.es/tipos-de-cristales-como-elegir-el-cristal-adecuado-para-tus-proyectos-de-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Tipos de cristales 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Descubre los tipos de cristales más usados en proyectos de aluminio y aprende a elegir el ideal para tu hogar o negocio. 🔍 ¡Lee más aquí! ✅",
+   "canonical": "https://aluminiosnavarro.es/tipos-de-cristales-como-elegir-el-cristal-adecuado-para-tus-proyectos-de-aluminio/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Tipos de cristales: Cómo elegir el cristal adecuado para tus proyectos de aluminio"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Tipos de cristales 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2025/10/tipos-de-cristales.jpeg"
+  },
+  "https://aluminiosnavarro.es/ventajas-del-cerramiento-de-terraza/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Ventajas del cerramiento de terraza 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Deseas un cerramiento de terraza a medida. Descubre sus ventajas y cómo mejorar tu hogar. ¡Lee más y da el siguiente paso! ✅",
+   "canonical": "https://aluminiosnavarro.es/ventajas-del-cerramiento-de-terraza/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventajas del Cerramiento de terraza"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Ventajas del cerramiento de terraza 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/03/46241006612_37b860dfcd_c.jpg"
+  },
+  "https://aluminiosnavarro.es/ventajas-de-instalar-un-techo-movil/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Descubre las ventajas de instalar un techo móvil】",
+   "meta_desc": "lll➤ En Aluminios Navarro te contamos todo sobre las ventajas de instalar un techo móvil para tu hogar o negocio, ¡no te lo pierdas entra aquí! ✅",
+   "canonical": "https://aluminiosnavarro.es/ventajas-de-instalar-un-techo-movil/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Innovación y Elegancia: Descubre las ventajas de instalar un techo móvil"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Descubre las ventajas de instalar un techo móvil】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/10/techo-movil2.jpg"
+  },
+  "https://aluminiosnavarro.es/techos-moviles-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Techos Móviles en Madrid 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Conoce los beneficios de los Techos Móviles en Madrid manuales y motorizados, de placas de vidrio o de policarbonato en todo Madrid. ✅",
+   "canonical": "https://aluminiosnavarro.es/techos-moviles-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Techos Móviles en Madrid"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Techos Móviles en Madrid 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/01/Techos-móviles-Económicos-y-de-calidad-en-Madrid.jpg"
+  },
+  "https://aluminiosnavarro.es/instalacion-de-techo-movil-en-torrejon-de-ardoz/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Instalación de Techo móvil en Torrejón de Ardoz】",
+   "meta_desc": "lll➤ Instalación de Techo móvil en Torrejón de Ardoz, Madrid a, precios económicos y de gran calidad. --> Pida presupuesto ✅",
+   "canonical": "https://aluminiosnavarro.es/instalacion-de-techo-movil-en-torrejon-de-ardoz/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Instalación de Techo móvil en Torrejón de Ardoz"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Instalación de Techo móvil en Torrejón de Ardoz】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/Instalacion-de-Techo-Movil-en-Torrejon-de-Ardoz-1024x485.jpg"
+  },
+  "https://aluminiosnavarro.es/como-elegir-persianas-de-aluminio-para-ventanas/": {
+   "status": 200,
+   "location": null,
+   "title": "【 ¿Cómo elegir las persianas de aluminio para ventanas? 】",
+   "meta_desc": "lll➤ Descubre cómo elegir persianas de aluminio para ventanas con nuestra guía experta de carpintería metálica. ¡Encuentra la mejor opción! ✅",
+   "canonical": "https://aluminiosnavarro.es/como-elegir-persianas-de-aluminio-para-ventanas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Cómo elegir las persianas de aluminio para ventanas?"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 ¿Cómo elegir las persianas de aluminio para ventanas? 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/11/persianas-de-aluminio.jpg"
+  },
+  "https://aluminiosnavarro.es/5-ventajas-de-las-persianas-de-aluminio-que-no-puedes-perderte/": {
+   "status": 200,
+   "location": null,
+   "title": "【 5 Ventajas de las persianas de aluminio 】",
+   "meta_desc": "lll➤ Si eres amante del buen gusto y prefieres la calidad ante todo, conoce las ventajas de tener persianas de aluminio en tu casa o negocio. ✅",
+   "canonical": "https://aluminiosnavarro.es/5-ventajas-de-las-persianas-de-aluminio-que-no-puedes-perderte/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "5 Ventajas de las persianas de aluminio que no puedes perderte"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 5 Ventajas de las persianas de aluminio 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/04/persianas-1.jpg"
+  },
+  "https://aluminiosnavarro.es/insonorizar-una-habitacion/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Aprende cómo insonorizar una habitación 】",
+   "meta_desc": "lll➤ Si te molesta el ruido de exterior entra en este post donde te enseñaremos maneras practicas de insonorizar una habitación. ✅",
+   "canonical": "https://aluminiosnavarro.es/insonorizar-una-habitacion/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Insonorizar una habitación: Una solución práctica al ruido externo"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Aprende cómo insonorizar una habitación 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/06/insonorizar-una-habitacion.png"
+  },
+  "https://aluminiosnavarro.es/como-elegir-las-mejores-ventanas-de-aluminio-modernas/": {
+   "status": 200,
+   "location": null,
+   "title": "【¿Cómo elegir las mejores ventanas de aluminio modernas?】",
+   "meta_desc": "lll➤ Conoce todo lo que necesitas saber a la hora de elegir ventanas de aluminio modernas y realiza una correcta elección. ✅",
+   "canonical": "https://aluminiosnavarro.es/como-elegir-las-mejores-ventanas-de-aluminio-modernas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "¿Cómo elegir las mejores ventanas de aluminio modernas?"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【¿Cómo elegir las mejores ventanas de aluminio modernas?】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/02/ventanas-de-aluminio-modernas.jpg"
+  },
+  "https://aluminiosnavarro.es/acristalar-una-terraza/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Acristalar una terraza: Todo lo que debes saber 】",
+   "meta_desc": "lll➤ En este post te invitamos a descubrir todo lo relacionado con acristalar una terraza, como hacerlo de manera efectiva . ¡Entra aquí ! ✅",
+   "canonical": "https://aluminiosnavarro.es/acristalar-una-terraza/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Acristalar una terraza: Todo lo que debes saber"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Acristalar una terraza: Todo lo que debes saber 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/10/acristalar-una-terraza2.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-de-pvc-vs-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Ventanas de PVC vs Aluminio 】▷ ¿Cuál elegir?",
+   "meta_desc": "lll➤ Descubre cuál es mejor: Ventanas de PVC vs Aluminio. ¡Compara eficiencia, estética y más para elegir sabiamente! ✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-de-pvc-vs-aluminio/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas de PVC vs Aluminio: ¿En qué material invertir?"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Ventanas de PVC vs Aluminio 】▷ ¿Cuál elegir?",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2024/05/ventanas-de-pvc-vs-aluminio.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-para-cocinas/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Ventanas para cocinas: Brindando luz y estilo a tu hogar 】",
+   "meta_desc": "lll➤ Si estás buscando una forma de actualizar tu cocina y añadir un toque de estilo ven y conoce los diferentes tipos de ventanas para cocinas. ✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-para-cocinas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas para cocinas: Brindando luz, ventilación y estilo a tu hogar"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Ventanas para cocinas: Brindando luz y estilo a tu hogar 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/05/interior-shot-modern-house-kitchen-with-large-windows-1024x683.jpg"
+  },
+  "https://aluminiosnavarro.es/como-limpiar-ventanas-de-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Limpiar Ventanas de Aluminio】",
+   "meta_desc": "lll➤ Encuentra los mejores consejos para limpiar ventanas de aluminio y lograr que estas vuelvan a brillar como nuevas, ¡que esperas entra ya! ✅",
+   "canonical": "https://aluminiosnavarro.es/como-limpiar-ventanas-de-aluminio/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cómo Limpiar Ventanas de Aluminio: ¡Consejos para Brillar tus Cristales!"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Limpiar Ventanas de Aluminio】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/05/limpiar-ventanas-de-aluminio.png"
+  },
+  "https://aluminiosnavarro.es/aislamiento-termico-en-el-hogar/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Mejores consejos para el aislamiento térmico en el hogar 】",
+   "meta_desc": "lll➤ Conoce todo sobre el aislamiento térmico y descubre como puedes mejorarlo en tu hogar y obtener beneficios, ¡Te lo contamos aquí! ✅",
+   "canonical": "https://aluminiosnavarro.es/aislamiento-termico-en-el-hogar/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Aislamiento térmico en el hogar: Cómo mejorar la eficiencia energética"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Mejores consejos para el aislamiento térmico en el hogar 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/07/aislamiento-termico-en-el-hogar.png"
+  },
+  "https://aluminiosnavarro.es/7-razones-para-instalar-cortinas-de-cristal/": {
+   "status": 200,
+   "location": null,
+   "title": "【 7 Razones para instalar cortinas de cristal 】",
+   "meta_desc": "lll➤ Expande y aumenta la estética de tu hogar añadiendo un elemento fundamental. Descubre las 7 razones para instalar cortinas de cristal. ✅",
+   "canonical": "https://aluminiosnavarro.es/7-razones-para-instalar-cortinas-de-cristal/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "7 Razones para instalar cortinas de cristal"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 7 Razones para instalar cortinas de cristal 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2024/01/Cortinas-de-cristal.jpeg"
+  },
+  "https://aluminiosnavarro.es/elegir-puertas-de-casa/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Elegir las Puertas de casa en Madrid 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ En Aluminios Navarro somos especialistas en Carpintería de aluminio, por eso te enseñamos a elegir puertas de casa de manera correcta. ✅",
+   "canonical": "https://aluminiosnavarro.es/elegir-puertas-de-casa/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Acertar en la elección de las puertas y ventanas de casa"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Elegir las Puertas de casa en Madrid 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/02/ventanasypuertas-1-min.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-pvc-o-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "【Ventanas pvc o aluminio】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ ¿Qué material será mejor para nuestras ventanas pvc o aluminio?, ya que debe ser escogido de manera consciente y cuidadosa. ✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-pvc-o-aluminio/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas pvc o aluminio"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【Ventanas pvc o aluminio】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/12/glass-window-overlooking-green-garden-e1670906693798-min.jpg"
+  },
+  "https://aluminiosnavarro.es/tips-para-escoger-el-diseno-de-ventana-ideal/": {
+   "status": 200,
+   "location": null,
+   "title": "【  Tips para escoger el diseño de ventana ideal 】",
+   "meta_desc": "lll➤ Si no sabes que diseño de ventana escoger, ven y conoce las alternativas para que puedas elegir la ventana ideal para tu espacio. ✅",
+   "canonical": "https://aluminiosnavarro.es/tips-para-escoger-el-diseno-de-ventana-ideal/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Tips para escoger el diseño de ventana ideal"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【  Tips para escoger el diseño de ventana ideal 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/02/interior-moderno-moda-sala-estar-paredes-azules-ventanas-blancas.jpg"
+  },
+  "https://aluminiosnavarro.es/9-claves-para-acertar-en-la-eleccion-de-los-toldos/": {
+   "status": 200,
+   "location": null,
+   "title": "【9 claves para la elección de toldos】▷Aluminios Navarro",
+   "meta_desc": "lll➤ Todo lo que necesitas saber al momento de elegir un toldo para tu hogar o sitio de preferencia lo encuentras en Aluminios Navarro. ✅",
+   "canonical": "https://aluminiosnavarro.es/9-claves-para-acertar-en-la-eleccion-de-los-toldos/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "9 Claves para acertar en la elección de los toldos"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【9 claves para la elección de toldos】▷Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/01/Intalacion-toldos-comunidad-de-vecinos-min-min.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-y-lonas-todo-lo-que-debes-saber/": {
+   "status": 200,
+   "location": null,
+   "title": "【Toldos y lonas, lo que debes saber】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Los toldos y lonas son elementos muy prácticos y útiles a la hora de pensar en resguardar los espacios de nuestro hogar. ✅",
+   "canonical": "https://aluminiosnavarro.es/toldos-y-lonas-todo-lo-que-debes-saber/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos y Lonas todo lo que debes saber"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【Toldos y lonas, lo que debes saber】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-21-at-15.42.08.jpeg"
+  },
+  "https://aluminiosnavarro.es/toldos-madrid/": {
+   "status": 301,
+   "location": "https://aluminiosnavarro.es/toldos-en-madrid/",
+   "title": null,
+   "meta_desc": null,
+   "canonical": null,
+   "robots": null,
+   "h1": null,
+   "schema": null,
+   "og_title": null,
+   "og_image": null
+  },
+  "https://aluminiosnavarro.es/ventanas-de-aluminio-para-frio/": {
+   "status": 200,
+   "location": null,
+   "title": "【Ventanas de Aluminio para el frío】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Se aproxima el frío y debemos protegernos de él con las mejores Ventanas de Aluminio, ideal para mantener cálido nuestro hogar.✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-de-aluminio-para-frio/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas de aluminio para el frío"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【Ventanas de Aluminio para el frío】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2021/01/nevada-madrid-espana-2021-carpinteria-de-aluminio-en-madrid-1.jpg"
+  },
+  "https://aluminiosnavarro.es/disfrutar-tu-terraza-en-invierno/": {
+   "status": 200,
+   "location": null,
+   "title": "【DISFRUTAR TU TERRAZA EN INVIERNO 】",
+   "meta_desc": "lll➤ Disfrutar tu terraza en invierno es posible gracias a los construcciones que te ofrecemos en Aluminios Navarros, lee los siguientes consejos. ✅",
+   "canonical": "https://aluminiosnavarro.es/disfrutar-tu-terraza-en-invierno/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Disfruta de tu terraza en invierno"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【DISFRUTAR TU TERRAZA EN INVIERNO 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2021/02/nevada-madrid-min-1.jpg"
+  },
+  "https://aluminiosnavarro.es/carpinteria-metalica-usos-y-beneficios/": {
+   "status": 200,
+   "location": null,
+   "title": "【Conoce todo sobre la Carpintería Metálica: Beneficios】",
+   "meta_desc": "lll➤ En Aluminios Antonio Navarro te invitamos a conocer sobre la carpintería metálica para que aproveches todos sus beneficios. ¡Entra ya! ✅",
+   "canonical": "https://aluminiosnavarro.es/carpinteria-metalica-usos-y-beneficios/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Conoce todo sobre la Carpintería Metálica"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【Conoce todo sobre la Carpintería Metálica: Beneficios】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-18.53.41.jpeg"
+  },
+  "https://aluminiosnavarro.es/ventanas-de-aluminio-rotura-puente-termico-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Ventanas de Aluminio Rotura Puente Térmico en Madrid 】",
+   "meta_desc": "lll➤ Ventanas de Aluminio Rotura Puente Térmico en Madrid a precios económicos y de gran calidad. --> Pida su presupuesto sin compromiso. ✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-de-aluminio-rotura-puente-termico-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas de Aluminio Rotura Puente Termico en Madrid"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Ventanas de Aluminio Rotura Puente Térmico en Madrid 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2018/05/domo-67rt-Aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/limpieza-de-ventanas-y-puertas-de-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "【Limpiar ventanas y puertas de aluminio】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Para mantener tus ventanas y puertas en óptimas condiciones, debes conocer como realizar su limpieza y la frecuencia de la misma. ✅",
+   "canonical": "https://aluminiosnavarro.es/limpieza-de-ventanas-y-puertas-de-aluminio/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Limpiar ventanas y puertas de aluminio"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【Limpiar ventanas y puertas de aluminio】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/11/limpieza-de-ventanas-y-puertas-de-aluminio.jpg"
+  },
+  "https://aluminiosnavarro.es/fabricacion-ventanas-de-aluminio-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【Fabricación de Ventanas de Aluminio】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Especialistas en fabricación, venta e instalación de Ventanas de Aluminio en Madrid. Disponemos de una ventana para cada cliente.✅",
+   "canonical": "https://aluminiosnavarro.es/fabricacion-ventanas-de-aluminio-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Fabricación, venta e instalación de Ventanas de Aluminio en Madrid"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【Fabricación de Ventanas de Aluminio】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/02/ventanas-DOMO-en-madrid.jpg"
+  },
+  "https://aluminiosnavarro.es/instalacion-techo-movil-parque-europa-torrejon/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Instalación de Techo móvil en Parque Europa 】",
+   "meta_desc": "lll➤ Techo móvil en Parque Europa Madrid. Carpintería de Aluminio y Toldos a precios económicos y de gran calidad. ->Pida presupuesto gratis✅",
+   "canonical": "https://aluminiosnavarro.es/instalacion-techo-movil-parque-europa-torrejon/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Instalación de Techo móvil en Parque Europa"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【 Instalación de Techo móvil en Parque Europa 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/Instalacion-de-Techo-Movil-en-Parque-Europa.jpg"
+  },
+  "https://aluminiosnavarro.es/": {
+   "status": 200,
+   "location": null,
+   "title": "Carpintería de aluminio en Madrid | Aluminios Navarro",
+   "meta_desc": "Aluminios Navarro, expertos en carpintería de aluminio en Madrid. Ofrecemos soluciones personalizadas en ventanas, cerramientos y más. ¡Contáctanos hoy!",
+   "canonical": "https://aluminiosnavarro.es/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Carpintería de Aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "WebPage",
+    "HomeAndConstructionBusiness",
+    "FAQPage"
+   ],
+   "og_title": "Carpintería de aluminio en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-terrazas-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Cerramientos de terrazas en Madrid | Aluminios Navarro",
+   "meta_desc": "Expertos en cerramientos de terrazas en Madrid. Nuestros sistemas de aluminio te brindan el máximo aislamiento. ¡Contacta con nosotros !",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-terrazas-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de terrazas en Madrid: Disfruta de tu espacio todo el año"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "Cerramientos de terrazas en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/carpinteria-de-aluminio-y-pvc/": {
+   "status": 200,
+   "location": null,
+   "title": "Carpintería de aluminio y PVC | Aluminios Navarro",
+   "meta_desc": "Carpintería de aluminio y PVC en Madrid con calidad y diseño a medida. Mejora tu hogar con nosotros. ¡Pide presupuesto sin compromiso!",
+   "canonical": "https://aluminiosnavarro.es/carpinteria-de-aluminio-y-pvc/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Carpintería de aluminio y PVC"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "BreadcrumbList",
+    "Service",
+    "WebPage"
+   ],
+   "og_title": "Carpintería de aluminio y PVC | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2023/01/IMG_9583-min-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/persianas-de-aluminio-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Persianas de Aluminio en Madrid | Aluminios Navarro",
+   "meta_desc": "¡Somos tu solución en persianas de aluminio en Madrid! Instalación profesional de persianas de aluminio térmico y persianas autoblocantes",
+   "canonical": "https://aluminiosnavarro.es/persianas-de-aluminio-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Fabricación e instalación de persianas de aluminio en Madrid"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Persianas de Aluminio en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2024/09/persinas-de-aluminio-1024x685.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-torrejon-de-ardoz/": {
+   "status": 200,
+   "location": null,
+   "title": "Cerramientos de aluminio en Torrejón de Ardoz",
+   "meta_desc": "Aprovecha al máximo el espacio de tu hogar, gracias a nuestros cerramientos de aluminio en Torrejón de Ardoz.",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-torrejon-de-ardoz/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Especialistas en Cerramientos de Aluminio en Torrejón de Ardoz"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "Cerramientos de aluminio en Torrejón de Ardoz",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-y-ventanas-en-torrejon-de-ardoz/": {
+   "status": 200,
+   "location": null,
+   "title": "Puertas y ventanas Torrejón de Ardoz | Aluminios Navarro",
+   "meta_desc": "Instaladores experimentados de puertas y ventanas Torrejón de Ardoz. Lo último en puertas y ventanas a tu disposición. Mira Ahora!",
+   "canonical": "https://aluminiosnavarro.es/puertas-y-ventanas-en-torrejon-de-ardoz/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas en Torrejón de Ardoz"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "Puertas y ventanas Torrejón de Ardoz | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/02/ventanasypuertas.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-alcala-de-henares/": {
+   "status": 200,
+   "location": null,
+   "title": "Cerramientos de Aluminio en Alcalá de Henares",
+   "meta_desc": "Cerramientos de aluminio en Alcalá de Henares. Carpintería Navarro: expertos en terrazas a medida. ¡Pide presupuesto sin compromiso!",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-alcala-de-henares/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Alcalá de Henares"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "Cerramientos de Aluminio en Alcalá de Henares",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Toldos en Madrid Baratos | Instalación de Toldos Madrid",
+   "meta_desc": "Instalación de toldos en Madrid baratos. Trabajamos en la completa instalación de toldos y lonas, al mejor precio. ¡Contáctanos ya!",
+   "canonical": "https://aluminiosnavarro.es/toldos-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "Toldos en Madrid Baratos | Instalación de Toldos Madrid",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/revslider/toldo-1.jpg"
+  },
+  "https://aluminiosnavarro.es/verandas-y-pergolas-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Verandas y pérgolas en Madrid",
+   "meta_desc": "Disfruta ahora de nuestras verandas y pérgolas en Madrid y consigue un espacio protegido, sin necesidad de obras.",
+   "canonical": "https://aluminiosnavarro.es/verandas-y-pergolas-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Verandas y pérgolas en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "Verandas y pérgolas en Madrid",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/revslider/techo_de_lamas_pozuelo-1024x680.jpg"
+  },
+  "https://aluminiosnavarro.es/techos-moviles-y-fijos-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Techos Móviles y Fijos de aluminio en Madrid",
+   "meta_desc": "Aluminios Navarro te ofrece los mejores techos móviles en Madrid, hecho con el mejor material, disfrute todo el año de su piscina o terraza.",
+   "canonical": "https://aluminiosnavarro.es/techos-moviles-y-fijos-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Techos Móviles y Fijos de aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "Techos Móviles y Fijos de aluminio en Madrid",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/03/Techos-moviles-interior2-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-pvc/": {
+   "status": 200,
+   "location": null,
+   "title": "Cerramientos de PVC en Madrid | Aluminios Navarro",
+   "meta_desc": "Instala cerramientos de PVC en terrazas, balcones y jardines con Aluminios Navarro. Calidad, aislamiento y diseño en Madrid.",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-pvc/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de PVC"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "Cerramientos de PVC en Madrid | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/03/Cerramientos-de-aluminios-piscina-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/cortinas-de-cristal-en-guadalajara/": {
+   "status": 200,
+   "location": null,
+   "title": "Cortinas de Cristal en Guadalajara | Aluminios Navarro",
+   "meta_desc": "Instalación profesional de cortinas de cristal en Guadalajara. Precios transparentes, garantía y servicio completo. Solicita tu presupuesto sin compromiso.",
+   "canonical": "https://aluminiosnavarro.es/cortinas-de-cristal-en-guadalajara/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cortinas de Cristal en Guadalajara"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "Cortinas de Cristal en Guadalajara | Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2021/08/cortinas-de-cristal.jpg"
+  },
+  "https://aluminiosnavarro.es/pergolas-en-guadalajara/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Pérgolas en Guadalajara 】▷ Mejores Precios",
+   "meta_desc": "➤ Aprovecha ya nuestras pérgolas en Guadalajara y obtén un espacio resguardado sin realizar construcciones. ¡Instala ya! ✅",
+   "canonical": "https://aluminiosnavarro.es/pergolas-en-guadalajara/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Pérgolas en Guadalajara"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Pérgolas en Guadalajara 】▷ Mejores Precios",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2024/10/aticos-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cerramientos de Aluminio en Madrid 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Cerramientos de aluminio para terrazas, patios y áticos. Techos móviles, pérgolas y cortinas de cristal. Más luz y confort . ¡Pide tu presupuesto gratis! ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "【 Cerramientos de Aluminio en Madrid 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/03/Cerramientos-de-aluminios-piscina-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/cortinas-de-cristal-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cortinas de Cristal en Madrid 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Transforma tu hogar con cortinas de cristal en Madrid de Aluminios Navarro. Calidad, diseño y seguridad garantizados. ¡Contáctanos hoy! ✅",
+   "canonical": "https://aluminiosnavarro.es/cortinas-de-cristal-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cortinas de Cristal en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cortinas de Cristal en Madrid 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2021/08/cortinas-de-cristal.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-y-ventanas-de-aluminio-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Puertas y Ventanas de Aluminio en Madrid 】",
+   "meta_desc": "lll➤ Especialistas en la instalación de puertas y ventanas de aluminio en Madrid. Los sistemas más vanguardistas a tu entera disposición. ✅",
+   "canonical": "https://aluminiosnavarro.es/puertas-y-ventanas-de-aluminio-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de Aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Puertas y Ventanas de Aluminio en Madrid 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/puerta-y-ventana-de-aluminio-en-madrid-aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/carpinteria-de-aluminio-en-alcala-de-henares/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Carpintería de aluminio en Alcalá de Henares 】",
+   "meta_desc": "lll➤ Encuentra la mejor carpintería de aluminio en Alcalá de Henares, en Aluminios Navarro contamos con excelentes profesionales para ti. ✅",
+   "canonical": "https://aluminiosnavarro.es/carpinteria-de-aluminio-en-alcala-de-henares/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Carpintería de aluminio en Alcalá de Henares",
+    "Datos de contacto."
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Carpintería de aluminio en Alcalá de Henares 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/cortinas-de-cristal-getafe/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cortinas de Cristal Getafe】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Increíbles cortinas de cristal Getafe para colocar en tu hogar, añadiendo diseño, estilo y funcionalidad a los ambientes de tu hogar. ✅",
+   "canonical": "https://aluminiosnavarro.es/cortinas-de-cristal-getafe/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cortinas de Cristal Getafe"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cortinas de Cristal Getafe】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/Mampara-o-Ducha-en-Madrid.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-guadalajara/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cerramientos de aluminio en Guadalajara 】",
+   "meta_desc": "lll➤ Aprovecha ya nuestros cerramientos de aluminio en Guadalajara, la opción premium en Madrid para el cerramiento de tu jardín.✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-guadalajara/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Guadalajara"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cerramientos de aluminio en Guadalajara 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-de-aluminio-en-alcala-de-henares/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Ventanas de aluminio en Alcalá de henares 】",
+   "meta_desc": "lll➤ Especialistas en la instalación de ventanas PVC y ventanas de aluminio en Alcalá de Henares. ¡Las mejores ventanas te esperan! ✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-de-aluminio-en-alcala-de-henares/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas en Alcalá de Henares"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "【 Ventanas de aluminio en Alcalá de henares 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/revslider/ventanas-aluminio.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-en-alcala-de-henares/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Toldos en Alcalá de Henares 】▷ Toldos de Aluminio",
+   "meta_desc": "lll➤ Somos profesionales en la instalación de toldos en España, compra nuestros fantásticos toldos en Alcalá de Henares. ¡Instala ya! ✅",
+   "canonical": "https://aluminiosnavarro.es/toldos-en-alcala-de-henares/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos en Alcalá de Henares"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "【 Toldos en Alcalá de Henares 】▷ Toldos de Aluminio",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/04/toldos-en-madrid-aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/empresa-de-aluminios-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Empresa de Carpintería de Aluminio】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Empresa de carpintería de Aluminio. Especialistas en todo lo relacionado con la carpintería de aluminio en la ciudad de Madrid, España. ✅",
+   "canonical": "https://aluminiosnavarro.es/empresa-de-aluminios-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Empresa de Carpintería de Aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "AboutPage",
+    "Service"
+   ],
+   "og_title": "【 Empresa de Carpintería de Aluminio】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/Carpinteria-de-Aluminio-en-Madrid.png"
+  },
+  "https://aluminiosnavarro.es/persianas-torrejon-de-ardoz/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Persianas Torrejón de Ardoz 】▷ Persianas de Aluminio",
+   "meta_desc": "lll➤ En Aluminios Navarro somos especialistas en instalación persianas de todo tipo, instalación de persianas torrejón de Ardoz y adyacencias. ✅",
+   "canonical": "https://aluminiosnavarro.es/persianas-torrejon-de-ardoz/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Persianas Torrejón de Ardoz"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "【 Persianas Torrejón de Ardoz 】▷ Persianas de Aluminio",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2021/08/cerramientos-plegables.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-getafe/": {
+   "status": 200,
+   "location": null,
+   "title": "【Cerramientos de aluminio en Getafe】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Aprovecha la ocasión para beneficiarte de nuestros cerramientos de aluminio en Getafe, la opción óptima para tu residencia. ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-getafe/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Getafe"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【Cerramientos de aluminio en Getafe】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/persianas-madrid/": {
+   "status": 301,
+   "location": "https://aluminiosnavarro.es/persianas-de-aluminio-en-madrid/",
+   "title": null,
+   "meta_desc": null,
+   "canonical": null,
+   "robots": null,
+   "h1": null,
+   "schema": null,
+   "og_title": null,
+   "og_image": null
+  },
+  "https://aluminiosnavarro.es/lonas-y-toldos-en-torrejon-de-ardoz/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Toldos en Torrejón de Ardoz 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ En Aluminios Navarro somos especialistas en instalación de toldos en Torrejón de Ardoz, adquiere el tuyo ahora y disfruta. ✅",
+   "canonical": "https://aluminiosnavarro.es/lonas-y-toldos-en-torrejon-de-ardoz/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Lonas y toldos en Torrejón de Ardoz"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Toldos en Torrejón de Ardoz 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/revslider/toldo-1.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-y-ventanas-de-aluminio-en-guadalajara/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Puertas y Ventanas de Aluminio en Guadalajara 】",
+   "meta_desc": "lll➤ Expertos en montaje de puertas y ventanas de aluminio y PVC en Guadalajara. Accede a lo último en tecnología para tu hogar. ✅",
+   "canonical": "https://aluminiosnavarro.es/puertas-y-ventanas-de-aluminio-en-guadalajara/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de Aluminio en Guadalajara"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Puertas y Ventanas de Aluminio en Guadalajara 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/puerta-y-ventana-de-aluminio-en-madrid-aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/pergolas-en-torrejon-de-ardoz/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Pérgolas en Torrejón de Ardoz 】▷ Vallas Torrejón de Ardoz",
+   "meta_desc": "lll➤ Disfruta de tardes y noches gracias a las pérgolas en Torrejón de Ardoz, sin obras, para descansar tranquilo y cómodo de tu tiempo libre. ✅",
+   "canonical": "https://aluminiosnavarro.es/pergolas-en-torrejon-de-ardoz/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Pérgolas en Torrejón de Ardoz"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Pérgolas en Torrejón de Ardoz 】▷ Vallas Torrejón de Ardoz",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2020/04/Toldo-Europa-en-Madrid.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-en-coslada/": {
+   "status": 200,
+   "location": null,
+   "title": "【Toldos en Coslada】▷ Toldos de Aluminio",
+   "meta_desc": "lll➤ Somos especialistas en la instalación de toldos en varios sitios de España, adquiere nuestros excelentes toldos en Coslada. ✅",
+   "canonical": "https://aluminiosnavarro.es/toldos-en-coslada/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos en Coslada"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "【Toldos en Coslada】▷ Toldos de Aluminio",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2018/11/instalación-de-toldos-en-Madrid-Aluminios-Navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-en-paracuellos-del-jarama/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Toldos en Paracuellos del Jarama 】▷ Toldos de Aluminio",
+   "meta_desc": "lll➤ Somo especialistas en la instalación de toldos en varios sitios de España, adquiere nuestros excelentes toldos en Paracuellos del Jarama. ✅",
+   "canonical": "https://aluminiosnavarro.es/toldos-en-paracuellos-del-jarama/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos en Paracuellos del Jarama"
+   ],
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "og_title": "【 Toldos en Paracuellos del Jarama 】▷ Toldos de Aluminio",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2018/11/instalación-de-toldos-en-Madrid-Aluminios-Navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-en-san-fernando-de-henares/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Toldos en San Fernando de Henares】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Venta e instalación de toldos en San Fernando de Henares. Disfruta de la mejor calidad para tu hogar, solo en Aluminios Navarro. ✅",
+   "canonical": "https://aluminiosnavarro.es/toldos-en-san-fernando-de-henares/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos en San Fernando de Henares"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Toldos en San Fernando de Henares】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/revslider/toldo-1.jpg"
+  },
+  "https://aluminiosnavarro.es/pergolas-en-alcala-de-henares/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Pérgolas en Alcalá de Henares 】▷ Aluminios Navarro",
+   "meta_desc": "➤ Descubre las mejores pérgolas en Alcalá de Henares con Aluminios Navarro. ¡Transforma tu espacio exterior hoy! ✅",
+   "canonical": "https://aluminiosnavarro.es/pergolas-en-alcala-de-henares/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Pérgolas en Alcalá de Henares"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Pérgolas en Alcalá de Henares 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/03/Pergolas-bioclimaticas6-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-paracuellos-del-jarama/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cerramientos de aluminio en Paracuellos del Jarama】",
+   "meta_desc": "lll➤ Aprovecha ya nuestros cerramientos de aluminio en Paracuellos del Jarama, la opción premium en Madrid para el cerramiento de tu jardín.✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-paracuellos-del-jarama/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de Aluminio Paracuellos del Jarama"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cerramientos de aluminio en Paracuellos del Jarama】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-y-ventanas-en-paracuellos-de-jarama/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Puertas y Ventanas en Paracuellos de Jarama 】",
+   "meta_desc": "lll➤ Instala las mejores puertas y ventanas en Paracuellos de Jarama con Aluminios Navarro. ¡Solicita tu presupuesto ahora! ✅",
+   "canonical": "https://aluminiosnavarro.es/puertas-y-ventanas-en-paracuellos-de-jarama/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de Aluminio en Paracuellos de Jarama"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Puertas y Ventanas en Paracuellos de Jarama 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/puerta-y-ventana-de-aluminio-en-madrid-aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/metodologia-aluminios-navarro/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Empresa de carpintería metálica 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Conozca la metodología Aluminios Navarro, trabajo que desempeñamos en tres sencillos pasos, empresa de carpintería metálica en Madrid. ✅",
+   "canonical": "https://aluminiosnavarro.es/metodologia-aluminios-navarro/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Metodología Aluminios Navarro"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service"
+   ],
+   "og_title": "【 Empresa de carpintería metálica 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/toma-de-medidas-peq.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-y-ventanas-de-aluminio-en-villalbilla/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Mejores Puertas y Ventanas de Aluminio en Villalbilla 】",
+   "meta_desc": "➤ Expertos en la colocación de puertas y ventanas de aluminio en Villalbilla. Disfruta de los sistemas más innovadores a tu disposición. ✅\"",
+   "canonical": "https://aluminiosnavarro.es/puertas-y-ventanas-de-aluminio-en-villalbilla/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de Aluminio en Villalbilla"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Mejores Puertas y Ventanas de Aluminio en Villalbilla 】",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/puerta-y-ventana-de-aluminio-en-madrid-aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-pozuelo/": {
+   "status": 200,
+   "location": null,
+   "title": "【Cerramientos de aluminio en Pozuelo】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Aprovecha esta oportunidad para disfrutar de nuestros cerramientos de aluminio en Pozuelo, la elección ideal para tu hogar. ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-pozuelo/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Pozuelo"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【Cerramientos de aluminio en Pozuelo】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-alcobendas/": {
+   "status": 200,
+   "location": null,
+   "title": "【Cerramientos de aluminio en Alcobendas】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Aprovecha la ocasión para beneficiarte de nuestros cerramientos de aluminio en Alcobendas, la opción óptima para tu residencia. ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-en-alcobendas/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Alcobendas"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【Cerramientos de aluminio en Alcobendas】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-daganzo/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cerramientos de aluminio en Daganzo】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ No pierdas la oportunidad de disfrutar de nuestros cerramientos de aluminio en Daganzo, la mejor alternativa para tu hogar. ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-daganzo/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Daganzo"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cerramientos de aluminio en Daganzo】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-cobena/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cerramientos de aluminio en Cobeña】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ ➤ No pierdas la oportunidad de disfrutar de nuestros cerramientos de aluminio en Cobeña, la mejor alternativa para tu jardín. ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-cobena/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Cobeña"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cerramientos de aluminio en Cobeña】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-de-aluminio-villalbilla/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Cerramientos de aluminio en Villalbilla】Aluminios Navarro",
+   "meta_desc": "lll➤ Aprovecha ya nuestros cerramientos de aluminio en Villalbilla, la opción premium en Madrid para el cerramiento de tu jardín. ✅",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-de-aluminio-villalbilla/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos de aluminio en Villalbilla"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Cerramientos de aluminio en Villalbilla】Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-y-puertas-de-pvc-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Ventanas de pvc en Madrid 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤Puertas y ventanas de PVC en Madrid, económicas y de calidad. ¡Obtenga un mayor aislamiento térmico y acústico a un precio increíble!✅",
+   "canonical": "https://aluminiosnavarro.es/ventanas-y-puertas-de-pvc-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas y Puertas de PVC en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service"
+   ],
+   "og_title": "【 Ventanas de pvc en Madrid 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/puerta-y-ventana-de-pvc-en-madrid-aluminios-navarro-2.jpg"
+  },
+  "https://aluminiosnavarro.es/carpinteria-de-aluminio-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Carpintería metálica en Madrid 】▷ Aluminios Navarro",
+   "meta_desc": "lll➤ Carpintería metálica en Madrid, Aluminios Navarro. Expertos en lo relacionado con la carpintería de aluminio en Madrid, España. ✅",
+   "canonical": "https://aluminiosnavarro.es/carpinteria-de-aluminio-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Carpintería metálica en Madrid"
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Carpintería metálica en Madrid 】▷ Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/cerramiento-de-terraza-en-madrid-capital.jpg"
+  },
+  "https://aluminiosnavarro.es/ayudas-fondos-next-generation/": {
+   "status": 200,
+   "location": null,
+   "title": "【AYUDAS FONDOS NEXT GENERATION EN MADRID】▷Aluminios Navarro",
+   "meta_desc": "lll➤En Aluminios Navarro pensamos en tu economía, incluso hacemos el trámite por ti para obtener ayudas de fondos next generation. ✅",
+   "canonical": "https://aluminiosnavarro.es/ayudas-fondos-next-generation/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ayudas Fondos Next Generation en Madrid"
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "【AYUDAS FONDOS NEXT GENERATION EN MADRID】▷Aluminios Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2022/08/despues-de-instalacion-de-pergolas-bioclimaticas-1-1024x768.jpg"
+  },
+  "https://aluminiosnavarro.es/frentes-de-armario-aluminio-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "【 Frentes de Armario Madrid 】▷ Aluminios Navarro Madrid",
+   "meta_desc": "lll➤ Frentes de Armario de aluminio en Madrid. Últimas tendencias en frentes de armario Madrid, multitud de acabados disponibles. ✅",
+   "canonical": "https://aluminiosnavarro.es/frentes-de-armario-aluminio-en-madrid/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Frentes de Armario de aluminio en Madrid",
+    "Frentes de Armario Madrid",
+    "Datos de contacto."
+   ],
+   "schema": [
+    "Place",
+    [
+     "HomeAndConstructionBusiness",
+     "Organization"
+    ],
+    "WebSite",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebPage",
+    "Service",
+    "FAQPage"
+   ],
+   "og_title": "【 Frentes de Armario Madrid 】▷ Aluminios Navarro Madrid",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/frentes-de-armario-de-aluminio-en-madrid-2.jpg"
+  },
+  "https://aluminiosnavarro.es/nuestra-exposicion/": {
+   "status": 200,
+   "location": null,
+   "title": "Conozca nuestra exposición en ventanas de aluminio",
+   "meta_desc": "Conozca la exposición de Aluminios Antonio Navarro. Con mas de 75 m² de exposición podra ver muchas combinaciones de productos Fijos, Móviles y Automatizados.",
+   "canonical": "https://aluminiosnavarro.es/nuestra-exposicion/",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Nuestra Exposición",
+    "Conozca nuestra exposición",
+    "Datos de contacto.",
+    "Formulario de contacto."
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "Conozca nuestra exposición en ventanas de aluminio",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/kc-section/blog-ventanas/": {
+   "status": 200,
+   "location": null,
+   "title": "blog ventanas | Aluminios Antonio Navarro",
+   "meta_desc": "Disponemos de una amplia gama de colores y formas, con las que tu podrás crear el estilo más adecuado a tus necesidades.",
+   "canonical": "https://aluminiosnavarro.es/kc-section/blog-ventanas/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de Aluminio en Madrid",
+    "Datos de contacto.",
+    "Formulario de contacto."
+   ],
+   "schema": [
+    "BreadcrumbList"
+   ],
+   "og_title": "blog ventanas | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/08/puerta-y-ventana-de-aluminio-en-madrid-aluminios-navarro.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-ventanas-aluminio-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Puertas y Ventanas de Aluminio en Madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/puertas-ventanas-aluminio-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de Aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Puertas y Ventanas de Aluminio en Madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/puertas-ventanas-pvc-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Puertas y Ventanas de PVC en Madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/puertas-ventanas-pvc-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Puertas y Ventanas de PVC en Madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Puertas y Ventanas de PVC en Madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/pergolas-verandas-aluminio-baratas-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Pergolas y Verandas de Aluminio en Madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/pergolas-verandas-aluminio-baratas-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Pergolas y Verandas de Aluminio en Madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Pergolas y Verandas de Aluminio en Madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/toldos-baratos-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Toldos en Madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/toldos-baratos-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Toldos en Madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Toldos en Madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/techo-movil-fijo-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Techos Móviles y Fijos en Madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/techo-movil-fijo-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Techos Móviles y Fijos en Madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Techos Móviles y Fijos en Madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/instalador-oficial-kommerling-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Instalador oficial Kommerling en madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/instalador-oficial-kommerling-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Instalador oficial Kommerling en madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Instalador oficial Kommerling en madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-de-pvc-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Ventanas de pvc en madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/ventanas-de-pvc-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas de pvc en madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Ventanas de pvc en madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/cerramientos-terrazas-aticos-porches-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Cerramientos en Madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": "Disfruta de los mejores cerramientos para áticos y porches en Madrid y alrededores. La mejor propuesta para tu hogar.",
+   "canonical": "https://aluminiosnavarro.es/cerramientos-terrazas-aticos-porches-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cerramientos en Madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Cerramientos en Madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/ventanas-con-rotura-puente-termico-en-madrid/": {
+   "status": 200,
+   "location": null,
+   "title": "Ventanas con Rotura puente térmico en madrid Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/ventanas-con-rotura-puente-termico-en-madrid/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Ventanas con Rotura puente térmico en madrid"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Ventanas con Rotura puente térmico en madrid Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  },
+  "https://aluminiosnavarro.es/cortinas-de-cristal/": {
+   "status": 200,
+   "location": null,
+   "title": "Cortinas de Cristal Archives | Aluminios Antonio Navarro",
+   "meta_desc": null,
+   "canonical": "https://aluminiosnavarro.es/cortinas-de-cristal/",
+   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "h1": [
+    "Cortinas de Cristal"
+   ],
+   "schema": [
+    "Place",
+    "HomeAndConstructionBusiness",
+    "WebSite",
+    "BreadcrumbList",
+    "CollectionPage"
+   ],
+   "og_title": "Cortinas de Cristal Archives | Aluminios Antonio Navarro",
+   "og_image": "https://aluminiosnavarro.es/aluminios2019/wp-content/uploads/2019/11/Aluminios-Navarro-REDES.jpg"
+  }
+ }
+}
